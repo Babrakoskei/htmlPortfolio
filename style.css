@@ -405,7 +405,7 @@ body
 cursor: pointer;
 background-color:#232323;
 color: white;
-box-shadow: 0 0 7px white;
+/* box-shadow: 0 0 7px white; */
 }
 .footer{
   background-color: #FDCD01;
